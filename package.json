@@ -1,0 +1,16 @@
+{
+  "name": "@leon20spr/console",
+  "version": "1.0.0",
+  "description": "With this middleware you can make your console more colourful.",
+  "keywords": [
+    "console",
+    "middleware"
+  ],
+  "author": "Leon Spreckels",
+  "license": "ISC",
+  "main": "./src/index.js",
+  "scripts": {
+    "console:install": "npm install",
+    "console:update": "npm update"
+  }
+}
