@@ -7,10 +7,6 @@
     "middleware"
   ],
   "author": "Leon Spreckels",
-  "license": "ISC",
-  "main": "./src/index.js",
-  "scripts": {
-    "console:install": "npm install",
-    "console:update": "npm update"
-  }
+  "license": "MIT",
+  "main": "./src/index.js"
 }
